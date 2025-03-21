@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34723.18
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Labs", "Labs.csproj", "{DF1E6E40-BF58-42C5-8015-B960A7B01C2F}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ClassLibrary1", "..\ClassLibrary1\ClassLibrary1.csproj", "{EECF9A45-763C-45EF-976A-C41D5B3C8255}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestProject1", "..\TestProject1\TestProject1.csproj", "{99BA80CD-BF90-4095-AF1F-41605EB56BAD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DF1E6E40-BF58-42C5-8015-B960A7B01C2F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DF1E6E40-BF58-42C5-8015-B960A7B01C2F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DF1E6E40-BF58-42C5-8015-B960A7B01C2F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DF1E6E40-BF58-42C5-8015-B960A7B01C2F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EECF9A45-763C-45EF-976A-C41D5B3C8255}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EECF9A45-763C-45EF-976A-C41D5B3C8255}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EECF9A45-763C-45EF-976A-C41D5B3C8255}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EECF9A45-763C-45EF-976A-C41D5B3C8255}.Release|Any CPU.Build.0 = Release|Any CPU
+		{99BA80CD-BF90-4095-AF1F-41605EB56BAD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{99BA80CD-BF90-4095-AF1F-41605EB56BAD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{99BA80CD-BF90-4095-AF1F-41605EB56BAD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{99BA80CD-BF90-4095-AF1F-41605EB56BAD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2FE4000D-4673-4208-9CF9-379D569B14B3}
+	EndGlobalSection
+EndGlobal
